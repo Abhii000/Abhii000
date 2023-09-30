@@ -1,0 +1,248 @@
+
+
+Question:-   clsls
+
+Answers:-
+
+Classless is a type of network addressing system where an address is not defined by a specific class, such as Class A, B, or C. In a classless system, addressing is more flexible, allowing for more efficient use of the available address space.
+----------------------------------------------------------------------------------------------
+
+Question:-   who is elon
+
+Answers:-
+
+Elon Musk is a technology entrepreneur, investor, and engineer. He is best known for founding and leading Tesla, SpaceX, Neuralink, and other companies. He was also the co-founder of Paypal.
+----------------------------------------------------------------------------------------------
+
+Question:-   sadasdf
+
+Answers:-
+
+
+I'm sorry, I don't understand your question. Could you please rephrase it?
+----------------------------------------------------------------------------------------------
+
+Question:-   cars
+
+Answers:-
+
+A car is a motor vehicle used for transportation.
+----------------------------------------------------------------------------------------------
+
+Question:-   cars
+
+Answers:-
+
+A car is a motor vehicle used for transportation.
+----------------------------------------------------------------------------------------------
+
+Question:-   
+
+Answers:-
+
+
+----------------------------------------------------------------------------------------------
+
+Question:-   who is ironman
+
+Answers:-
+
+Iron Man is a fictional superhero appearing in American comic books published by Marvel Comics. The character was co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby. The character made his first appearance in Tales of Suspense #39 (cover dated March 1963).
+----------------------------------------------------------------------------------------------
+
+Question:-   tell me about ironman
+
+Answers:-
+
+Iron Man is a fictional superhero appearing in American comic books published by Marvel Comics. The character was co-created by writer and editor Stan Lee, developed by scripter Larry Lieber and designed by artists Don Heck and Jack Kirby. The character made his first appearance in Tales of Suspense #39, and received his own title in Iron Man #1. Iron Man is a billionaire industrialist, playboy and ingenious scientist Tony Stark who suffers a severe chest injury during a kidnapping in which his captors attempt to force him to build a weapon of mass destruction. He instead creates a powered suit of armor to save his life and escape captivity. He later uses the suit to protect the world as Iron Man.
+----------------------------------------------------------------------------------------------
+
+Question:-   who is bill
+
+Answers:-
+
+ Bill Gates is an American business magnate, software developer, investor, and philanthropist. He is best known as the co-founder of Microsoft Corporation.
+----------------------------------------------------------------------------------------------
+
+Question:-   who is bill
+
+Answers:-
+
+Bill is a common English given name of Old German origin. It became very popular in the 19th century and is currently one of the most popular given names in the English-speaking world.
+----------------------------------------------------------------------------------------------
+
+Question:-   teach me java 
+
+Answers:-
+
+ If you are just starting out in Java, a great +free+ place to start is the Oracle Java Tutorials (https://docs.oracle.com/javase/tutorial/index.html). It is written by the creators of Java and provides an excellent introduction and guidance on starting out with programming in Java. Best of luck and happy coding!
+----------------------------------------------------------------------------------------------
+
+Question:-   open google
+
+Answers:-
+
+Go to https://www.google.com/ to open Google.
+----------------------------------------------------------------------------------------------
+
+Question:-   print
+
+Answers:-
+
+Hello
+
+
+Hello! How can I help you?
+----------------------------------------------------------------------------------------------
+
+Question:-   how to get honored
+
+Answers:-
+
+The best way to get honored is to consistently achieve high levels of success in whatever area of activity you choose. Show your commitment and dedication to what you do, and practice your craft diligently. Help others who are in need, and develop a reputation for being reliable, honest, and responsible. These are the qualities that people recognize and appreciate, and they will help you receive the recognition and respect you deserve.
+----------------------------------------------------------------------------------------------
+
+Question:-   who is mark
+
+Answers:-
+
+Mark is a common given name, derived from the Latin name Marcus. It is popular in many countries, including the United States, Canada, and the United Kingdom among English-speaking populations.
+----------------------------------------------------------------------------------------------
+
+Question:-   /print
+
+Answers:-
+
+
+
+The printer is located in Room 3. To print, use the computer in the room and open the document or file you would like to print. Use the on-screen instructions to select the printer and the number of copies you would like to print. The printer is a black and white laser printer.
+----------------------------------------------------------------------------------------------
+
+Question:-   tell me about love
+
+Answers:-
+
+ Love is a strong emotion that can manifest in many different ways, such as affection, passion, and care. It's often associated with romantic relationships, but it can also be experienced between family members, friends, and even with pets. Love can be difficult to express in words, but it can be an incredibly powerful force, both in the good and bad times.
+----------------------------------------------------------------------------------------------
+
+Question:-   how to make masala dosa
+
+Answers:-
+
+
+Ingredients: 
+-3 cups idli/dosa batter 
+-2 onions, chopped 
+-2 green chillies, chopped 
+-1/4 cup fresh coriander, chopped 
+-1/4 teaspoon pepper powder
+-1/4 teaspoon cumin powder 
+-1/4 teaspoon turmeric powder 
+-Oil/ghee, to grease the pan
+-Salt, to taste 
+
+Instructions: 
+1. In a bowl, mix together chopped onions, green chillies, coriander, pepper powder, cumin powder, and turmeric powder. 
+2. Take a non-stick griddle/tawa and grease it with some oil/ghee. 
+3. Pour 1/2 cup of idli/dosa batter into the center of the griddle and spread it in a thin and even layer. 
+4. Drizzle 1 teaspoon of oil/ghee around the edges of the dosa. 
+5. Sprinkle generous amount of prepared masala over the dosa. 
+6. Cook for a few minutes until the base is light golden brown. 
+7. Fold the dosa into half and serve hot with chutney or sambar.
+----------------------------------------------------------------------------------------------
+
+Question:-   what is vr technology
+
+Answers:-
+
+Virtual reality (VR) technology is a computer-generated simulation of a three-dimensional image or environment that can be interacted with in a seemingly real or physical way by a person using special electronic equipment, such as a helmet with a screen inside or gloves fitted with sensors.
+----------------------------------------------------------------------------------------------
+
+Question:-   what is ic
+
+Answers:-
+
+Integrated circuit (IC), also referred to as a microchip, is a small electronic device made up of a semiconductor material (usually silicon) and other electronic components. These devices are used in almost every electronic device today, including computers, mobile phones, radios, televisions, and more. ICs are made up of very tiny transistors, resistors, capacitors, and other components, which form the basic building blocks of many electronic designs. An IC can be a single component or an integrated circuit board comprising of many components.
+----------------------------------------------------------------------------------------------
+
+Question:-   what is car
+
+Answers:-
+
+A car is a wheeled motor vehicle used for transportation. Most definitions of cars say that they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.
+----------------------------------------------------------------------------------------------
+
+Question:-   tell me about bill
+
+Answers:-
+
+Bill is a common English name, traditionally associated with being a male name. Bill is generally thought to have originated as an informal form of the name William, derived from the Germanic Willahelm. Bill has historically been a very popular name as it can be seen in records of the US census from 1880 to 2018, peaking in popularity in the 1950s.
+----------------------------------------------------------------------------------------------
+
+Question:-   car
+
+Answers:-
+
+Car is a four-wheeled motor vehicle used for transportation.
+----------------------------------------------------------------------------------------------
+
+Question:-   who is bill
+
+Answers:-
+
+Bill Gates is an American business magnate, investor, author, philanthropist, and humanitarian. He is the co-founder of Microsoft Corporation.
+----------------------------------------------------------------------------------------------
+
+Question:-   helo
+
+Answers:-
+
+Hello there!
+----------------------------------------------------------------------------------------------
+
+Question:-   bill
+
+Answers:-
+
+Bill is a document indicating an amount of money that is to be, or has been, received or spent
+----------------------------------------------------------------------------------------------
+
+Question:-   who is elon
+
+Answers:-
+
+Elon Musk is a South African-born American business magnate, investor, engineer, and inventor. He is the founder, CEO, and chief engineer/designer of SpaceX; co-founder, CEO, and product architect of Tesla, Inc.; and founder of The Boring Company.
+----------------------------------------------------------------------------------------------
+
+Question:-   what is car
+
+Answers:-
+
+A car is a motor vehicle used for transportation.
+----------------------------------------------------------------------------------------------
+
+Question:-   write python code for finding prime numbers
+
+Answers:-
+
+
+
+def is_prime(n):
+    if n < 2:
+        return False
+    for i in range(2, n):
+        if n % i == 0:
+            return False
+    return True
+
+for i in range(2, 100):
+    if is_prime(i):
+        print(i)
+----------------------------------------------------------------------------------------------
+
+Question:-   start chrome
+
+Answers:-
+
+To start Google Chrome on Windows, open the Start menu and type "Google Chrome" into the search bar and click the icon when it appears. On Mac OS X, open the Applications folder and double-click the Chrome icon.
+----------------------------------------------------------------------------------------------

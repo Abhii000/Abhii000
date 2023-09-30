@@ -1,0 +1,173 @@
+
+
+Question:-   tell me about yourself
+
+Answers:-
+
+My name is [name], and I'm a [career field]. I am a hardworking, dedicated and detail-oriented professional with [years] of experience. I have a strong analytical background and expertise in areas such as [topics]. I also have great communication and problem-solving skills, and I enjoy working both independently and as part of a team. In my free time, I enjoy [hobbies].
+----------------------------------------------------------------------------------------------
+
+Question:-   /socket
+
+Answers:-
+
+
+
+Socket programming is a type of computer network programming that allows two computers to communicate with each other over a network. It involves creating special programs, called sockets, that the two computers can use to establish a connection and exchange data. Socket programming is used in a wide variety of applications, from web browsers to game engines to distributed databases.
+----------------------------------------------------------------------------------------------
+
+Question:-   8305
+
+Answers:-
+
+8305
+----------------------------------------------------------------------------------------------
+
+Question:-   what is pc
+
+Answers:-
+
+PC stands for Personal Computer and is a computer designed for general use by a single user or small group of users. It is usually used for activities such as word processing, surfing the web, playing computer games, and other general computing tasks.
+----------------------------------------------------------------------------------------------
+
+Question:-   sdfsf
+
+Answers:-
+
+I'm not sure I understand your question.
+----------------------------------------------------------------------------------------------
+
+Question:-   socket
+
+Answers:-
+
+A socket is one endpoint of a two-way communication link between two programs running on the network. It is a way for one process to communicate with another process on the same or a different machine.
+----------------------------------------------------------------------------------------------
+
+Question:-   nothink
+
+Answers:-
+
+Sorry, I don't understand. Can you please rephrase the question?
+----------------------------------------------------------------------------------------------
+
+Question:-   what is pc
+
+Answers:-
+
+PC stands for personal computer. It is a desktop or laptop computer typically used at home for a variety of tasks such as word processing, web browsing, streaming video or audio and gaming.
+----------------------------------------------------------------------------------------------
+
+Question:-   hello
+
+Answers:-
+
+Hi! How are you?
+----------------------------------------------------------------------------------------------
+
+Question:-   hello
+
+Answers:-
+
+Hi there!
+----------------------------------------------------------------------------------------------
+
+Question:-   hello
+
+Answers:-
+
+Hi there!
+----------------------------------------------------------------------------------------------
+
+Question:-   what is computer
+
+Answers:-
+
+A computer is a device that can receive, process, and transmit data. Computers are used for a wide variety of purposes including business, entertainment, communication, organization, etc.
+----------------------------------------------------------------------------------------------
+
+Question:-   nothing
+
+Answers:-
+
+I'm sorry, I don't understand.
+----------------------------------------------------------------------------------------------
+
+Question:-   send
+
+Answers:-
+
+ When sending mail electronically, first open your email program. Compose your message, addressing it to its intended recipient. Insert any attachments, proofread the message, and make sure you have all of the information necessary for the recipient. Once you are satisfied with the message, click "Send" and the message will be sent to its recipient.
+----------------------------------------------------------------------------------------------
+
+Question:-   get
+
+Answers:-
+
+Get is a command used in many computer systems and is used to obtain items such as files, programs, and other information from a computer system or the internet.
+----------------------------------------------------------------------------------------------
+
+Question:-   what is computer
+
+Answers:-
+
+A computer is a machine that can be programmed to carry out a set of arithmetic or logical operations automatically. Computers are used as control systems for a wide variety of industrial and consumer devices. Modern computers are electronic and digital, and their primary based components include the central processing unit (CPU), memory, and input/output (I/O).
+----------------------------------------------------------------------------------------------
+
+Question:-   what is pc
+
+Answers:-
+
+PC stands for "personal computer." It is an electronic device designed for general purpose use, such as web browsing, word processing, gaming, data management, and more.
+----------------------------------------------------------------------------------------------
+
+Question:-   what is computer
+
+Answers:-
+
+A computer is an electronic device that can receive, process, store, and output data. It is used to perform a wide variety of operations, from basic data processing tasks to complex calculations.
+----------------------------------------------------------------------------------------------
+
+Question:-   how to use computer
+
+Answers:-
+
+To use a computer, you will need to learn how to operate the mouse and keyboard, access various programs, and understand how to navigate the computer's operating system. You may also need to understand how to connect to the internet, depending on what you plan to do with the computer.
+----------------------------------------------------------------------------------------------
+
+Question:-   how to use Quantum computing in metaphors
+
+Answers:-
+
+Quantum computing can be used as a metaphorical bridge to connect different perspectives or ideas. For example, the idea of “superposition” in quantum computing can be used to illustrate the need for taking a holistic view of a problem. This can be a helpful concept when trying to understand complex interconnections between different variables. Similarly, “entanglement” can be used to represent how two traditionally independent variables may have a hidden dependency on each other through the context of a larger system.
+----------------------------------------------------------------------------------------------
+
+Question:-   how to use metaverse
+
+Answers:-
+
+Metaverse is a blockchain technology-based, open-source public platform that enables digital assets to be stored, traded, and managed. You can use Metaverse by downloading and installing a Metaverse compatible wallet, then following the instructions in it to create an account and start using it. Once you have an account, you can use it to store, trade, and manage your digital assets. Additionally, there are many third-party services that use Metaverse to enable more functionalities, such as digital asset transactions, decentralized applications, and more.
+----------------------------------------------------------------------------------------------
+
+Question:-   what is pc
+
+Answers:-
+
+PC is an abbreviation for personal computer. It is a computer designed for general use by a single person.
+----------------------------------------------------------------------------------------------
+
+Question:-   car
+
+Answers:-
+
+A car is a motor vehicle used for transportation.
+----------------------------------------------------------------------------------------------
+
+Question:-   asasd
+
+Answers:-
+
+
+
+I'm sorry, I'm not sure what you are asking. Could you please clarify your question?
+----------------------------------------------------------------------------------------------
